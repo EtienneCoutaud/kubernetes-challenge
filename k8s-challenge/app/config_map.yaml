@@ -1,0 +1,7 @@
+---
+apiVersion: v1
+metadata:
+  name: k8s-challenge-data
+kind: ConfigMap
+data:
+  NAME: etiennecoutaud
